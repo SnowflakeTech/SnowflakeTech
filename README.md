@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://www.facebook.com/pham.tien.son.2004/)
-<h1 align="center">Hi 👋, I'm SnowflakeTech ❄️</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code+ExtraBold&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+SnowflakeTech!+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
 <h3 align="center">A developer come from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowflaketech&label=Profile%20views&color=0e75b6&style=flat" alt="snowflaketech" /> </p>
