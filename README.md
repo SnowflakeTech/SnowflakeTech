@@ -40,7 +40,7 @@
 <h2 align="center">🛠️ Languages, Frameworks and Tools 🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, java, nodejs, anaconda, bootstrap, cpp, clion, cloudflare, css, discord, django, docker, emotion, github, gmail, idea, html, instagram, js, mysql, notion, py, vscode, vue, windows" />
+    <img src="https://skillicons.dev/icons?i=git,java,nodejs,anaconda,bootstrap,cpp,clion,cloudflare,css,discord,django,docker,emotion,github,gmail,idea,html,instagram,js,mysql,notion,py,vscode,vue,windows"/>
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowflaketech&show_icons=true&locale=en&layout=compact&theme=radical" alt="snowflaketech" /></p>
