@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snowflaketech&show_icons=true&locale=en&theme=radical" alt="snowflaketech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowflaketech&" alt="snowflaketech&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowflaketech&theme=radical" alt="snowflaketech"/></p>
