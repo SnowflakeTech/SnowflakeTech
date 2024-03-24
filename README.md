@@ -38,6 +38,8 @@
 <a href="https://www.leetcode.com/phamson2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phamson2k4" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucbfxfuiqazh-v98nnsol9zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbfxfuiqazh-v98nnsol9zg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/phamson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="phamson" height="30" width="40" /></a>
+<a href="https://www.facebook.com/messages/t/8341265415887277/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/messenger.svg" alt="phamson" height="30" width="40" /></a>
+<a href="https://github.com/SnowflakeTech" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="phamson" height="30" width="40" /></a>
 </p>
 <br/>
 <h2 align="center">🛠️ Languages, Frameworks and Tools 🛠️</h2>
