@@ -51,6 +51,7 @@
 
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowflaketech&theme=2077" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowflaketech&show_icons=true&locale=en&layout=compact&theme=radical" alt="snowflaketech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snowflaketech&show_icons=true&locale=en&theme=radical" alt="snowflaketech" /></p>
